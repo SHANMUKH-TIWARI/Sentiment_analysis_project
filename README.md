@@ -68,7 +68,7 @@ Sentiment-Analysis-IMDB/
 
 ## How to Run
 
-1. Download the IMDB Dataset (CSV format)
+1. Download the IMDB Dataset CSV from https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download and place it inside the `Dataset/` folder.
 2. Place the file inside the `Dataset/` directory
 3. Install dependencies:
 
